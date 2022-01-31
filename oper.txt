@@ -1,0 +1,6 @@
+This is ne file[D[D[D[D[Dw 
+I have used git commend [D[D[a[C[C[C
+Git init
+git push
+git pull
+git add
